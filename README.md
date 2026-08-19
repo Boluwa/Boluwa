@@ -22,7 +22,7 @@ A live competitive intelligence dashboard for the paid search + AI Overview era.
  
 The exact framework I used to grow a Pinterest account from zero to 1.6M monthly views in six months, packaged as a starter kit — templates, keyword research approach, and pin optimisation checklists you can apply the same day. Delivered straight to your inbox.
  
-👉 [**Buy the Kit**](https://shop.beacons.ai/boluwaolojo/e43bcdec-aaa7-46ba-8995-42de4dfbae7f) · Or [book a 15-min discovery call](https://beacons.ai/boluwaolojo) · [All my links](https://beacons.ai/boluwaolojo)
+👉 [**Buy the Kit**](https://shop.beacons.ai/boluwaolojo/e43bcdec-aaa7-46ba-8995-42de4dfbae7f) · Or [book a 15-min discovery call](https://shop.beacons.ai/boluwaolojo/f9492bc5-5d54-4379-a27e-2c4ea7e971c1?pageViewSource=lib_view&referrer=https%3A%2F%2Fbeacons.ai%2Fboluwaolojo&show_back_button=true) · [All my links](https://beacons.ai/boluwaolojo)
 
 ---
 
