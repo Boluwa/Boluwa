@@ -2,7 +2,7 @@
 
 **Growth & Performance Marketing Specialist** · CIM-certified · Recognised by Tech Nation as a **UK Global Talent** in digital technology.
 
-I use AI, data, and thoughtful storytelling to build products, grow brands, and empower communities. My work sits at the intersection of paid media, SEO, and the emerging AI Search era — where the rules of visibility are being rewritten in real time.
+I use AI, data, and thoughtful storytelling to build products, grow brands, and empower communities. My work sits at the intersection of paid media, product marketing, and the emerging AI Search era — where the rules of visibility are being rewritten in real time.
 
 ---
 
