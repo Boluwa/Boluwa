@@ -14,7 +14,7 @@ A live competitive intelligence dashboard for the paid search + AI Overview era.
 
 🔗 [Live demo](https://boluwa.github.io/competitive-lens/) · 📂 [Source](https://github.com/Boluwa/competitive-lens)
 
-### 🕐 [Hours Ledger](https://boluwa.github.io/competitive-lens/)
+### 🕐 [Hours Ledger](https://boluwa.github.io/Timesheet-for-freelancers/)
 
 A single-page freelance timesheet tracker. Type a task in plain language — "New lead gen set up for Client — 3h" — and it parses out the task and the hours automatically. Switch to the Month Report tab to see hours totaled by task for any month, with a one-click copy for sending on to a client. No build step, no backend — just an HTML file that saves your log to the browser.
 
