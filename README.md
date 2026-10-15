@@ -56,6 +56,11 @@ Add newest first. Format:
 
 - **[Fresh Grad Advantage: Using AI Prompting to Learn, Work, and Stand Out](https://www.nextgenerationhub.com/post/ai-prompting-guide)** — Next Generation Hub, March 2026
   <br><sub>Practical AI prompting techniques for graduates entering an AI-shaped job market.</sub>
+  - **[ChatGPT Ads: What early adopters are saying.]((https://www.ppc.live/post/chatgpt-ads-what-early-adopters-are-saying))** — PPC Live Blog, August 2026
+  <br><sub>Five people, five different answers to "is this working?" That's the honest state of the channel right now.
+
+.</sub>
+
 
 ---
 
